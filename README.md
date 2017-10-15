@@ -1,8 +1,8 @@
 # vrstuff
 vr stuff
 
-#What is this?
+# What is this?  
 Try it out at http://tamscso.ga/vr
 
-#Why?
+# Why?  
 Why not
